@@ -3,6 +3,8 @@
 Lesson 19 from beautiful Three.js-journey course by [@bruno_simon](https://twitter.com/bruno_simon), with improved performance.
 This code emerged as a result of exploration how far it would be possible to push the performance using only techniques presented up untill lesson 19, without touching shaders.
 
+Break down of the approach [in twitter thread](https://twitter.com/nikitayells/status/1638117324183023616).
+
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
