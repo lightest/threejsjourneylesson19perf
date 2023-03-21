@@ -1,5 +1,8 @@
 # Three.js Journey
 
+Lesson 19 from beautiful Three.js-journey course by [@bruno_simon](https://twitter.com/bruno_simon), with improved performance.
+This code emerged as a result of exploration how far it would be possible to push the performance using only techniques presented up untill lesson 19, without touching shaders.
+
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
@@ -8,7 +11,7 @@ Run this followed commands:
 # Install dependencies (only the first time)
 npm install
 
-# Run the local server at localhost:8080
+# Run the local server at localhost
 npm run dev
 
 # Build for production in the dist/ directory
